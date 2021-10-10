@@ -12,7 +12,7 @@
   <a href="https://wa.me/6282325276395"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-  # MAKASIH LORT
+  # MAKASIH LORD
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
 * [`YuzzuKamiyaka`](https://github.com/YuzzuKamiyaka)
